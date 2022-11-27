@@ -10,6 +10,7 @@ Searchfield intended to be used with firejail + user defined search-urls, and/or
 ### Flashlight
 Small "flashlight" app
 
+--------------------------------------------------------------------------------------------------
 
 ##### KTube-DL and Safesearch are functional but buggy.
 ##### KTube-DL and Safesearch require QT 5.15 - Flashlight requires 5.14
