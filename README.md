@@ -11,5 +11,5 @@ Also works as drag-drop-area for selected userscript
 Small "flashlight" app
 
 
-#### KTube-DL and Safesearch are functional but buggy.
-#### KTube-DL and Safesearch require QT 5.15 - Flashlight requires 5.14
+##### KTube-DL and Safesearch are functional but buggy.
+##### KTube-DL and Safesearch require QT 5.15 - Flashlight requires 5.14
