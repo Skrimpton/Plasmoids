@@ -1,7 +1,7 @@
 # Hot homemade amateur KDE Plasma plasmoids
 
 ### KTube-DL (projectname/foldername: listx)
-YouTube-DL gui
+YouTube-DL/yt-dlp gui
 
 ### Safesearch
 Searchfield intended to be used with firejail + user defined search-urls, and/or userscripts.
