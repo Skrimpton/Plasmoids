@@ -5,7 +5,7 @@ YouTube-DL/yt-dlp gui
 
 ### Safesearch
 Searchfield intended to be used with firejail + user defined search-urls, and/or userscripts.
-Also works as drag-drop-area for selected userscript
+</br>Also works as drag-drop-area for selected userscript
 
 ### Flashlight
 Small "flashlight" app
