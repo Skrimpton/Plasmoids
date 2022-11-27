@@ -1,4 +1,4 @@
-# Hacky homemade amateur KDE Plasma plasmoids
+# Hacky homemade amateur KDE Plasma plasmoids (works in progress)
 
 ### KTube-DL (projectname/foldername: listx)
 YouTube-DL/yt-dlp gui
