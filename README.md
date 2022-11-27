@@ -1,6 +1,6 @@
 # Hot homemade amateur KDE Plasma plasmoids
 
-### KTubeDL (projectname/foldername: listx)
+### KTube-DL (projectname/foldername: listx)
 YouTube-DL gui
 
 ### Safesearch
